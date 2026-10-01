@@ -1,0 +1,19 @@
+{
+  "name": "sorry-api",
+  "version": "1.0.0",
+  "description": "A tiny Node.js package for generating apology messages and forgiveness status.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "apology",
+    "sorry",
+    "relationship",
+    "message-generator",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Shifs",
+  "license": "MIT"
+}
