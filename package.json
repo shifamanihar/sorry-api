@@ -1,19 +1,20 @@
 {
   "name": "sorry-baby",
   "version": "1.0.0",
-  "description": "A tiny Node.js package for generating apology messages and forgiveness status.",
+  "description": "A tiny Node.js package that generates cute apology messages with adorable kaomoji.",
   "main": "src/index.js",
   "scripts": {
     "test": "node --test"
   },
   "keywords": [
-    "apology",
     "sorry",
-    "relationship",
-    "message-generator",
+    "apology",
+    "cute",
+    "kaomoji",
+    "message",
     "nodejs",
     "npm"
   ],
-  "author": "Shifs",
+  "author": "Shifa",
   "license": "MIT"
 }
